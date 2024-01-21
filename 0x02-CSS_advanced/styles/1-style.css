@@ -1,0 +1,5 @@
+/* making the scroll behaviour smooth */
+
+html {
+    scroll-behavior: smooth;
+  }
